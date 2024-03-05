@@ -1,6 +1,6 @@
 # Web-EDA
 
-We have a set of email campaigns for an advertiser who had a steady number of opens and
+Problem Scenario: We have a set of email campaigns for an advertiser who had a steady number of opens and
 click-throughs historically. However, after pulling a monthly summary report, we found that ad
 clicks were significantly higher than normal. Using the summary report below and raw data files
 provided for those campaigns
@@ -8,7 +8,7 @@ provided for those campaigns
 2. After identifying the issue, what kind of suggestions can you provide for possible
 solutions to this problem for future campaigns?
 3. Optional: Are there any other findings that you were able to identify during this
-analysis? If then, what are they?
+analysis? If so, what are they?
 
 Note: Each campaign consists of two raw data files because they run in two phases. 1st send is
 sent to the whole audience and 2nd send is sent only to those who didn’t open the 1st send.
@@ -27,11 +27,11 @@ The analysis suggests that while the total number of ad clicks is increasing, th
 Possible Causes of Increased Ad Clicks
 The data suggests two possible explanations for the observed increase in ad clicks:
 1.	Decreased Open Rates due to URL Placeholders: The data reveals a concurrent decrease in open rates alongside the rise in ad clicks. This pattern implies that URL placeholders potentially reduce email appeal, leading to fewer overall openings.
-2.	Increased Re-engagement with Repeated Sends: A closer look at click-through rates for the first and second sends within the April 14th and 16th campaigns unveils a significant increase in clicks for the second sends. This suggests that some recipients who disregarded the initial email might have been re-engaged by the follow-up message.
+2.	Increased Re-engagement with Repeated Sends: A closer look at click-through rates for the first and second sends within the April 14th and 16th campaigns unveils a significant increase in clicks for the second sends. This suggests that the follow-up message might have re-engaged some recipients who disregarded the initial email.
 Additional Observations
 •	The total number of delivered emails remained consistent throughout the campaign.
 •	While the total number of opens fluctuated, the number of unique opens showed a steady decline.
-•	This suggests that a smaller group of recipients might be repeatedly opening the emails, potentially contributing to the higher click-through rates.
+•	This suggests that a smaller group of recipients might repeatedly open the emails, potentially contributing to the higher click-through rates.
 Possible Solutions:
 •	Track Unique Clicks: Instead of relying on total ad clicks, track unique ad clicks to gauge advertiser engagement.
 •	Analyze the content and timing of the second send emails. Consider segmenting the audience based on open behavior. 
